@@ -1,9 +1,15 @@
 {
     "orgName": "wade.wegner Example",
     "edition": "Developer",
+  "features": [],
     "settings": {
     "lightningExperienceSettings": {
         "enableS1DesktopEnabled": true
 
+    },
+    "securitySettings": {
+        "passwordPolicies": {
+            "enableSetPasswordInApi": true
+        }
     }
 }
